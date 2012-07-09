@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">android-prime-kata</string>
+    <string name="text_hint">Primes of this Value</string>
+    <string name="resultLabel">Results:</string>
+</resources>
